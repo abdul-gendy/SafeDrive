@@ -16,5 +16,5 @@ C++ Visual Studio solution for driver focus detection using computer vision and 
 
 # Sample Run
 <p align="center">
-  <img src="images/sample_run.PNG" alt="alt text" width="300" height="300">
+  <img src="images/sample_run.PNG" alt="alt text" width="600" height="500">
 </p>
