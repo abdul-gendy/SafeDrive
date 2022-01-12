@@ -15,8 +15,6 @@ C++ Visual Studio solution for driver focus detection using computer vision and 
  - Build the solution on x64 Release mode and run
 
 # Sample Run
-```
 <p align="center">
   <img src="images/sample_run.png" alt="alt text" width="500" height="500">
 </p>
-```
